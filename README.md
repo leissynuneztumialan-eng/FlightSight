@@ -20,13 +20,13 @@ Aplicación web para búsqueda y reserva de vuelos desarrollada con PHP, MySQL, 
 ## Capturas de pantalla
 
 ### Búsqueda de vuelos
-![Inicio](screenshots/inicio.png)
+![Inicio](inicio.png)
 
 ### Resultados
-![Resultados](screenshots/resultados.png)
+![Resultados](resultados.png)
 
 ### Reserva
-![Reserva](screenshots/reserva.png)
+![Reserva](reserva.png)
 
 ## Instalación
 
